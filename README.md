@@ -14,11 +14,11 @@ A data analysis project to explore Walmart’s retail performance using Python a
 
 The Power BI dashboard includes visualizations like:
 
-- 📈 Total weekly sales trend
-- 🏬 Store-wise sales comparison
-- 📅 Holiday vs Non-Holiday sales impact
-- 🌡️ Temperature vs Sales (scatter)
-- 📊 Correlation matrix of influencing factors
+- 📈 Weekly Sales Trend over Time
+- 🧊 Temperature vs Weekly Sales (scatter plot)
+- 🏬 Average Sales by Store (bar chart)
+- 📦 Total Sales: 6.74 billion
+- ⛽ Average Fuel Price: 3.36
 
 > 📁 Dashboard file: [`Walmart.pbix`](https://github.com/afzalt3ch/Walmart-Sales-Analysis/blob/main/Dashboard/Walmart.pbix)
 
@@ -42,16 +42,15 @@ Walmart_Sales/
 
 - **Python** (Google Colab): Data cleaning, preprocessing, correlation analysis
 - **Libraries**: pandas, matplotlib, seaborn
-- **Power BI**: Dashboard creation, trend analysis, slicers & visual storytelling
+- **Power BI**: Dashboard creation, visual storytelling
 
 ---
 
 ## 📈 Insights Discovered
 
 - **Store 20** had the highest average weekly sales.
-- **Holiday Sales** were slightly higher than non-holiday periods on average.
-- **Temperature and Fuel Price** had weak correlation with sales.
-- Sales patterns varied significantly across stores and dates.
+- **Temperature** shows a broad distribution with no strong correlation to sales.
+- **Total weekly sales across all stores** is approximately **6.74 billion**.
 
 ---
 
