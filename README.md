@@ -10,7 +10,7 @@ A data analysis project to explore Walmart’s retail performance using Python a
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/afzalt3ch/Walmart_Sales_Analysis/blob/main/Screenshot/dashboard.png)
+![Dashboard Screenshot](https://github.com/afzalt3ch/Walmart-Sales-Analysis/blob/main/Screenshot/dashboard.png)
 
 The Power BI dashboard includes visualizations like:
 
@@ -20,7 +20,7 @@ The Power BI dashboard includes visualizations like:
 - 🌡️ Temperature vs Sales (scatter)
 - 📊 Correlation matrix of influencing factors
 
-> 📁 Dashboard file: [`Walmart.pbix`](https://github.com/afzalt3ch/Walmart_Sales_Analysis/blob/main/Dashboard/Walmart.pbix)
+> 📁 Dashboard file: [`Walmart.pbix`](https://github.com/afzalt3ch/Walmart-Sales-Analysis/blob/main/Dashboard/Walmart.pbix)
 
 ---
 
